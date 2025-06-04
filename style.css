@@ -54,3 +54,8 @@ section,hr{
    background-color: var(--section-time-background);
    padding: 25px;
 }
+
+.recipe-time{
+   color: var(--subtitle-time-color);
+   font-size: 20px;
+}
