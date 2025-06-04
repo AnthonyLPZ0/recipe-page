@@ -39,3 +39,8 @@ section,hr{
    color: hsl(30, 10%, 34%);
    font-size: 17px;
 }
+
+.recipe-preparation{
+   background-color: hsl(330, 100%, 98%);
+   padding: 25px;
+}
