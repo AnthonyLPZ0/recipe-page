@@ -68,3 +68,13 @@ ul,li{
 .list-time{
    list-style: none;
 }
+
+.list-time li {
+   display: flex;
+   align-items: baseline;
+   gap: 5px;
+   position: relative;
+   padding-left: 1.2em;
+   font-size: 18px;
+   color: var(--p-color);
+}
