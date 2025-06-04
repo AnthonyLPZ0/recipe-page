@@ -64,3 +64,7 @@ ul,li{
    color: var(--subtitle-time-color);
    font-size: 20px;
 }
+
+.list-time{
+   list-style: none;
+}
