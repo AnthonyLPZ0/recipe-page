@@ -34,3 +34,8 @@ section,hr{
    font-size: 40px;
    color: hsl(24, 5%, 18%);
 }
+
+.recipe-descripcion{
+   color: hsl(30, 10%, 34%);
+   font-size: 17px;
+}
