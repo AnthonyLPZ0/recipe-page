@@ -105,3 +105,9 @@ ul,li{
    color: var(--p-color);
 }
 
+.ingredients-list li::before{
+   content: "•";
+   position: absolute;
+   left: 0;
+}
+
