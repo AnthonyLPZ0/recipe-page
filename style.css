@@ -126,3 +126,11 @@ ul,li{
    color: var(--p-color);
 }
 
+.instructions-list li::before{
+   content: counter(step) ".";
+   position: absolute;
+   left: 0;
+   top: 0;
+   font-weight: bold;
+   color: var(--subtitle-color);
+}
