@@ -111,3 +111,8 @@ ul,li{
    left: 0;
 }
 
+.instructions-list{
+   counter-reset: step;
+   list-style: none;
+   padding-left: 0;
+}
