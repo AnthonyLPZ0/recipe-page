@@ -116,3 +116,13 @@ ul,li{
    list-style: none;
    padding-left: 0;
 }
+
+.instructions-list li{
+   counter-increment: step;
+   position: relative;
+   padding-left: 2em;
+   margin-bottom: 10px;
+   font-size: 18px;
+   color: var(--p-color);
+}
+
