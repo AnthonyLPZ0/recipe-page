@@ -134,3 +134,8 @@ ul,li{
    font-weight: bold;
    color: var(--subtitle-color);
 }
+
+.recipe-nutrition p{
+   color: var(--p-color);
+   font-size: 18px;
+}
