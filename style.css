@@ -95,5 +95,13 @@ ul,li{
    display: flex;
    flex-direction: column;
    gap: 12px;
+   list-style: none;
+}
+
+.ingredients-list li{
+   position: relative;
+   padding-left: 1.2em;
+   font-size: 18px;
+   color: var(--p-color);
 }
 
