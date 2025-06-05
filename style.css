@@ -85,3 +85,8 @@ ul,li{
    color: var(--p-color);
    font-size: 1em;
 }
+
+.subtitle{
+   color: var(--subtitle-color);
+   font-size: 30px;
+}
