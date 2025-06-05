@@ -90,3 +90,10 @@ ul,li{
    color: var(--subtitle-color);
    font-size: 30px;
 }
+
+.ingredients-list{
+   display: flex;
+   flex-direction: column;
+   gap: 12px;
+}
+
