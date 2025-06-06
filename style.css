@@ -141,6 +141,7 @@ ul,li{
 }
 
 .nutrient{
+   width: 100%;
    border-collapse: collapse;
    margin-bottom: 1em;
 }
