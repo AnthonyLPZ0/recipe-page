@@ -151,3 +151,8 @@ td{
    border-bottom: 1px solid hsl(30, 18%, 87%);
 }
 
+.aportes{
+   font-weight: 500;
+   color: var(--p-color);
+}
+
