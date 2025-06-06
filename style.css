@@ -175,4 +175,11 @@ td{
    section,hr{
       width: 100%;
    }
+
+   .container-recipe{
+      max-width: 100%;
+      padding: 30px;
+      background-color: var(--div-background-color);
+      border-radius: 5px;
+   }
 }
