@@ -145,3 +145,8 @@ ul,li{
    border-collapse: collapse;
    margin-bottom: 1em;
 }
+
+th,td{
+   padding: 12px;
+   border-bottom: 1px solid hsl(30, 18%, 87%);
+}
