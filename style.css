@@ -165,3 +165,11 @@ td{
    font-weight: 600;
    color: var(--subtitle-color);
 }
+
+@media (min-width:375px) {
+
+   body{
+      background-color: hsl(30, 54%, 90%);
+   }
+
+}
