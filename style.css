@@ -156,3 +156,7 @@ td{
    color: var(--p-color);
 }
 
+.values{
+   font-weight: 600;
+   color: var(--subtitle-color);
+}
