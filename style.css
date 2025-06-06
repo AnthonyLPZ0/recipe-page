@@ -172,4 +172,7 @@ td{
       background-color: hsl(30, 54%, 90%);
    }
 
+   section,hr{
+      width: 100%;
+   }
 }
