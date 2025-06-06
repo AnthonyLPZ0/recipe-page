@@ -188,3 +188,10 @@ td{
       border-radius: 15px;
    } 
 }
+
+@media (min-width:650px) {
+   .container-recipe{
+      max-width: 80%;
+      width: 45%;
+   }
+}
